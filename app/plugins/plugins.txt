@@ -1,0 +1,13 @@
+autoptimize
+backwpup
+cloudflare
+contact-form-7
+events-manager
+fv-top-level-cats
+rename-wp-login
+woocommerce
+woocommerce-correios
+woocommerce-extra-checkout-fields-for-brazil
+woocommerce-pagseguro
+wordpress-seo
+wp-super-cache
